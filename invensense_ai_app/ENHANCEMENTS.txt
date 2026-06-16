@@ -1,0 +1,6 @@
+Enhanced edition:
+- Larger KPI cards
+- Category Risk Runway with values
+- Interactive analytics
+- Full-width charts
+- Top risk product table
